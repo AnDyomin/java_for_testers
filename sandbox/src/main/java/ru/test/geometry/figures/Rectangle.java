@@ -10,4 +10,5 @@ public record Rectangle(double a, double b) {
     private static double rectangleArea(double a, double b) {
         return a * b;
     }
+
 }
